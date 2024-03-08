@@ -1,0 +1,20 @@
+{
+  "name": "markdownparserbymick",
+  "version": "1.0.0", 
+  "description": "Build a lightweight and efficient Markdown parser that converts Markdown syntax into HTML, allowing developers to easily incorporate Markdown support into their applications.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "" // репозиторий (заполним чуть позже)
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT"
+}
